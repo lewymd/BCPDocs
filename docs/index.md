@@ -4,7 +4,7 @@ Welcome to these information pages about playing Pokemon Go in Bournemouth
 
 ## Raid Hour(Meetings postponed during COVID)
 
-Raid Hour every Wednesday, 6pm starts at St Michaels (This can change keep an eye on the chats for details)
+Raid Hour every Wednesday, 6pm starts at St Michaels (This can change keep an eye on the chats for details and start area is normally confirmed around 20 mins before)
 
 ## Community Days(Meetings postponed during COVID)
 

@@ -1,4 +1,4 @@
-The Canterbury Pokemon map is run by a small army of elves who walk around Canterbury checking everything out so you don't have to.  They update the map and also provide the source of data used by the notification systems.
+The BCP Pokemon map is run by a small army of elves who walk around Bournemouth and Poole checking everything out so you don't have to.  They update the map and also provide the source of data used by the notification systems.
 
 # Controls and options
 
