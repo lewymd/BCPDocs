@@ -1,0 +1,13 @@
+site_name: BCP Pokemon Maps
+nav:
+    - Home: 'index.md'
+    - 'Community resources': community.md
+    - 'Pokemon Map': map.md
+    - 'Notifications': 
+       - 'Standard notification': notifications.md
+       - 'Custom Notifications': custom-notifications.md
+    - 'Get in touch': get-in-touch.md
+    - 'FAQ': faq.md
+
+theme: readthedocs
+
