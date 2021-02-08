@@ -51,11 +51,6 @@ The location settings allow you to set "follow-me". Especially useful when using
 
 <img src="../img/rocketmap-followme.png" alt="drawing" width="200"/>
 
-### Nest display
-
-![Hundo](img/rocketmap-nests.png)
-
-If you are particularly interested in nests, the discord server channel `#nest-summary` shows changes to nests each week.
 
 ### Historic Pokemon View
 
@@ -68,28 +63,24 @@ The pawprint icon in the top right will take you to a list of Pokemon that have 
 I wonder where I would go if I was looking for dunsparse...
 
 
-# Coverage Area
+# Coverage Areas
 
-## Main City Area
+## Spawns Area
 
-![Hundo](img/map-coverage-central.png)
+![Hundo](img/spawns-area.png)
 
-## Bridge Area
+## Raids/Rockets
 
-![Hundo](img/map-coverage-bridge.png)
-
-## Raids
-
-![Hundo](img/map-coverage-raid.png)
+![Hundo](img/raids-area.png)
 
 ## Daily Quest Scan
 
-![Hundo](img/map-coverage-quest.png)
+![Hundo](img/quests-area.png)
 
 
 
 # Adding new areas
 
-If you are in the Bournemouth area and would like to see your area covered please get in touch - the map is very much demand led
+If you are in the BCP area and would like to see your area covered please get in touch - the map is very much demand led
 
 

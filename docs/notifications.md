@@ -25,19 +25,19 @@ The discord is open access and can be joined by following the invite link.
 There are four discord channels; notifications in these channels are much richer than the Facebook equivelants as Discord allows for higher-fidelity formatting. Most of the notifications contain a link to google maps or the BCP Pokemon map to be able to identify exactly where the target is.
 
 ## Pokestop change notifications
-
-The `#pokestop-change-notifications` shows changes to pokestops in the local area
+(Coming soon)
+The `#new-changed-pokestops` shows changes to pokestops in the local area
 
 ![NewPokestop](img/discord-new-pokestop.png)
 
 ## Interesting quests
-The `#mapping-quests` currently shows spinda, but in general will track meta-important quests
+The `#mapped-quests` currently shows spinda, but in general will track meta-important quests such as gibles, rare shinies etc.
 
 ![Pokemon](img/discord-quest.png)
 
 ## Hundos and Nundos
 
-The `#mapping-hundos` channel shows both hundos (100% IV) and nundo (0%) IV pokemon in the local area
+The `#hundos` channel shows both hundos (100% IV) and  `#nundos` will show nundo (0%) IV pokemon in the local area
 
 ![Pokemon](img/discord-pokemon.png)
 
@@ -47,4 +47,4 @@ The `#mapping-community-day` channel is activated on community day, and generall
 
 # Want something different?
 
-Have a look at using Poracle to send you customised notifications
+Have a look at using the bot to send you customised notifications
