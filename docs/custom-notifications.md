@@ -4,9 +4,9 @@ All the notifications are run by a bot called **BCP MAP**.  The bot is extremely
 
 The Bot will talk to you by sending you direct messages in discord.  You can call him to start a conversation by connecting to the Bournemouth and Poole Discord Server, going into the `#bot-registration` channel (you will need an active subscription to see this channel) and calling for poracle with the command `!poracle`
 
-// # Web interface
+# Web interface
 
-// Once you have called the bot in Discord you can make changes to your notifications either by using commands - or the new web interface - [here](https://bot.pogobournemouth.com) (coming soon)
+Once you have called the bot in Discord you can make changes to your notifications either by using commands - or the new web interface - [here](https://bot.pogobournemouth.com) (coming soon)
 
 # Simple commands
 
@@ -35,12 +35,10 @@ You can always see a list of areas that poracle currently supports by using the 
 Area name | Description
 --- | ---
 bcp| The whole of the bcp area covered by the scanner
+other areas | Got an idea for an area? just let me know and I can add it
 
 
-![Wide](img/fence-wide.png)
-
-![Wide](img/fence-city.png)
-
+![Wide](img/fence-bcp.png)
 
 To add yourself to an area, issue a command like `!area add bcp`.  Removing yourself is just the reverse `!area remove bcp`.  You can see the areas you are interested in using the `!tracked` command
 
